@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kiranclutch1998](https://github.com/Kiranclutch1998)
 
-- 💬 Ask me about ** Data Visualization, Exploratory Data Analysis**
+- 💬 Ask me about ** Data Visualization, Exploratory Data Analysis , Machine Learning **
 
 - 📫 How to reach me **poojarikiran39@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=" https://www.linkedin.com/in/kiran-poojari-b07479147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kiran-poojari-b07479147/" height="30" width="40" /></a>
+<a href=" https://www.linkedin.com/in/kiran-poojari-b07479147/" target="https://www.linkedin.com/in/kiran-poojari-b07479147/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kiran-poojari-b07479147/" height="30" width="40" /></a>
 </p>
 
 
